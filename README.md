@@ -42,7 +42,7 @@ const mohammadAbdurRehman = {
 
 #### 🦾 3-DOF Robotic Arm
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ar080907&repo=3_DOF_robotic_arm&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="3-DOF Robotic Arm"/>
+
 
 A 3 degrees-of-freedom robotic arm controlled in real time using hand-tracking with MediaPipe and an Arduino-driven servo system.
 
