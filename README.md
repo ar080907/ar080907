@@ -16,7 +16,6 @@
 ---
 
 ### 🧠 Who I Am
-
 ``` typescript
 const mohammadAbdurRehman = {
   title: "Computer Engineering Student",
@@ -57,7 +56,7 @@ A 3 degrees-of-freedom robotic arm controlled in real time using hand-tracking w
 
 #### 🛸 Drone Surveillance System
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ar080907&repo=Drone-Surveillence&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Drone Surveillance System"/>
+
 
 A drone-based surveillance system powered by a YOLOv8 model fine-tuned on a custom dataset for object detection.
 
@@ -107,7 +106,6 @@ A drone-based surveillance system powered by a YOLOv8 model fine-tuned on a cust
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ar080907&theme=nord&no-frame=true&no-bg=true&row=1&column=6" />
 
 </div>
 
