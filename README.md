@@ -17,7 +17,7 @@
 
 ### 🧠 Who I Am
 
-```typescript
+``` typescript
 const mohammadAbdurRehman = {
   title: "Computer Engineering Student",
   stack: {
