@@ -29,7 +29,7 @@ const mohammadAbdurRehman = {
     "3-DOF Robotic Arm (MediaPipe + Arduino)",
     "Drone Surveillance System (Fine-tuned YOLOv8)",
   ],
-  certifications: [],
+  certifications: ["AI Fundamentals: Foundations for Understanding AI","Github Workflow Mastery"],
   status: "Learning, building, and exploring robotics",
   openTo: ["Robotics collaborations", "Computer Vision projects"],
 };
@@ -90,7 +90,11 @@ A drone-based surveillance system powered by a YOLOv8 model fine-tuned on a cust
 <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" />
 
 ---
+### Certifications
 
+***AI Fundamentals: Foundations for Understanding AI*** [link](https://www.credly.com/badges/a8a88a94-4bdd-4323-ae9b-111561365f4f/public_url)
+
+***GitHub Workflow Mastery*** [link](https://unstop.com/certificate-preview/3684ec4d-affb-47e4-9dc7-35e9d6a4ffc4)
 ### 📊 GitHub Stats
 
 <div align="center">
